@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c83b89c0bdba1590",
+    "type": "split",
+    "children": [
+      {
+        "id": "7907536972618828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a096384b99678558",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "541ed33480900647",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d09a80587406b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23bedb991caeb2c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "71cd51e6f065315e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "c99b6a61bc621365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d27fcc1db4afb73",
+    "type": "split",
+    "children": [
+      {
+        "id": "97243cd7951d3b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc5a0530ab2c5a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-每日打卡/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "fee8187a5d06b6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "1deac9a67a766ff1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "19ab0e62b27a706b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "14aff0551a8ddfb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c99b6a61bc621365",
+  "lastOpenFiles": [
+    "07-模板笔记/资源收集模板.md",
+    "07-模板笔记/2026-05-04每日打卡记录（打卡模板）.md",
+    "07-模板笔记",
+    "01-每日打卡/未命名.md",
+    "05-工具库（网站、软件、插件）/插件",
+    "05-工具库（网站、软件、插件）/软件",
+    "05-工具库（网站、软件、插件）/网址网站",
+    "04-成果展示厅（项目、作品、证书）/证书技能",
+    "04-成果展示厅（项目、作品、证书）/作品展示",
+    "04-成果展示厅（项目、作品、证书）/项目复盘",
+    "03-灵感与思考（随想、问题、创意）/创意点子",
+    "03-灵感与思考（随想、问题、创意）/待解问题",
+    "03-灵感与思考（随想、问题、创意）/随想碎片",
+    "未命名.md",
+    "2026-05-03.md",
+    "欢迎.md"
+  ]
+}
